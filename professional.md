@@ -1,6 +1,6 @@
 # Mason Matthews' Professional README
 
-Hello.  If you're reading this, there's a good chance that you either work with me now or are considering working with me in the future, and you want to know more about me.  Seems like a worthy goal, but I have bad news.  This document is going to do a terrible job of approximating "me."  Let's be honest; even my own mental model of myself will be forever lacking, so a Markdown file is doomed to fail.
+Hello.  If you're reading this, there's a good chance that you either work with me now or are considering working with me in the future, and you want to know more.  Seems like a worthy goal, but I have bad news.  This document is going to do a terrible job of approximating "me."  Let's be honest; even my own mental model of myself will be forever lacking, so a Markdown file is doomed to fail.
 
 That being said, you might be satisfied with getting a first-order approximation in a short period of time, and that's what I'm aiming for here.  Feel free to read this, ask me any questions you have, and build your own set of assumptions from there.  Over time, if you think that
 
@@ -22,7 +22,7 @@ I think this (somewhat obnoxious) answer tells you a lot of things about me:
 
 A few other things that I think you should know:
 
-* I can't imagine working in isolation.  I need to be a part of a team, organize around common goals, and learn from each other.
+* I can't imagine working in isolation.  I need to be a part of a team, organized around common goals and learning from each other.
 * I'm a teacher at heart.  I love helping others grow, especially getting in their heads to identify and iron out assumptions.
 * I think it's important to isolate focused, heads-down tasks (like development) from interrupt-driven tasks (like Slack).  Mixing the two leads to getting nothing done.
 * I overuse bullet points.
@@ -54,16 +54,20 @@ Warned you about the bullets.
 
 ## What I try to accomplish when I'm a manager
 
-I've worked in some companies with traditional "managers" and some without.  In either scenario, I always to do the following: 
+As a team lead of any variety, I see it as my responsibility to:
 
 * Help the team reach consensus
 * Hold the team accountable to the decisions and standards we've come up with together
-* Always re-evaluate procedures
+* Continually re-evaluate the way we do things
 
+If I am in a formal "manager" role, with employees reporting directly to me, I think it's important to also:
 
+* Get to know team members well, and talk openly and often about how things are going
+* Provide the support my reports need to grow and to do their best possible work
+* Set expectations for outcomes, not micromanage tasks
+* Oversee the selection process for new team members
 * Buffer the team from stresses imposed by other business units
-* Translate those stresses to action plans
-* Bear responsibility for our plans and performance to the company and the
+* Bear responsibility for our plans and performance within the company and without
 
 ## What I expect from direct reports when I am a manager
 
@@ -78,12 +82,16 @@ I've worked in some companies with traditional "managers" and some without.  In 
 
 If I happen to be managing you at a particular company, I'll also write a separate document which details the way we do things as a team, from one-on-ones to reviews to specific quirks of our working environment.
 
-## What I hope I never do as a manager
+## What I don't do as a manager
 
-First off, stop for a minute and think about all the suffering that bad management causes in the world.  As evidenced by the success of Dilbert and The Office, it's not a small amount.  Although I'll never be able to provide an exhaustive list, here are some things I hope to never do:
+First off, stop for a minute and think about all the suffering that bad management causes in the world.  As evidenced by the success of Dilbert and The Office, it's not a small amount.  Although I'll never be able to provide an exhaustive list, here are some things I intend to never do:
 
-* Try to do your job better than you
+* Act like I can your job better than you
+* Take the credit for your work
+* Ignore your opinions
+* Give you challenging feedback in front of others
 
+Since I'm human, I may get things wrong from time to time.  If I do, though, please call me out immediately.
 
 ## How I tend to screw up
 
