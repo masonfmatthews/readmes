@@ -31,7 +31,7 @@ A few other things that I think you should know:
 
 I think that bad communication can break a company, and it's certainly been the cause of most of my professional frustration over the years.  First of all, we need to see all of our interactions as opportunities to build empathy and understanding.  Regardless of whether we're inquiring, brainstorming, reaching consensus, or informing others of a decision, everything is easier if you can see where your coworkers are coming from and what they're trying to accomplish.
 
-Sadly, determining the correct medium of communication is important but hard.  There are a few ways to go right and a lot of ways to go wrong.  Here are the modalities we have at our disposal these days:
+Sadly, determining the correct medium of communication is hard.  There are a few ways to go right and a lot of ways to go wrong.  Here are the modalities we have at our disposal these days:
 
 * Face-to-face conversations.  These are high bandwidth, and with a whiteboard, they can be the best way to brainstorm/architect new solutions.  I also find that it's the hardest to misunderstand someone when you're looking them in the face.  However, if the only goal of the interaction is to communicate a decision or ask for feedback on something, you should not interrupt someone's day for that.  Choose an asynchronous method instead.
 * Screen-sharing or phone calls.  Still high-bandwidth, but you lose the cues of body language.  Great for coding (or brainstorming in the absence of face-to-face time), but again, don't overuse them.
@@ -48,52 +48,62 @@ I worked for a big company out of college, so I tend to cringe at the thought of
 * Brainstorming/architecture meetings should be kept small.  Two, three, maaaybe four.
 * Regular meetings like stand-ups and sprint planning are useful, but you have to be vigilant about not falling into a rut.  Continue to iterate on the agenda, and dump the practice if it's becoming rote.
 * On the largest scale, it is valuable to have the occasional (monthly? quarterly?) meeting with all hands on deck. Employees want to know about company goals, direction, and outlook, and getting together as a team can be quite motivating.  Just keep it fresh (and to the point).
-* If you have some documentation you want to get right, don't meet about it.  Pass it around asynchronously.  And for heaven's sake, never ever copyedit in a meeting.
 
-Warned you about the bullets.
+And indulge me for a personal rant: if you have some documentation you want to get right, don't meet about it.  Pass it around asynchronously.  And for heaven's sake, never ever copyedit in a meeting.
 
-## What I try to accomplish when I'm a manager
+## How I "manage"
+
+I'm not convinced that having "managers" is right for every company, but as you grow, I think good ones can help you scale.  I have spent time as an individual contributor and time as a manager.  If I happen to be managing you, here's what you probably want to know.
+
+### What you should expect from me
 
 As a team lead of any variety, I see it as my responsibility to:
 
+* Get to know team members well, and talk openly and often about how things are going
 * Help the team reach consensus
 * Hold the team accountable to the decisions and standards we've come up with together
 * Continually re-evaluate the way we do things
 
 If I am in a formal "manager" role, with employees reporting directly to me, I think it's important to also:
 
-* Get to know team members well, and talk openly and often about how things are going
 * Provide the support my reports need to grow and to do their best possible work
 * Set expectations for outcomes, not micromanage tasks
 * Oversee the selection process for new team members
 * Buffer the team from stresses imposed by other business units
 * Bear responsibility for our plans and performance within the company and without
 
-## What I expect from direct reports when I am a manager
+### What we should expect of each other
 
-* Open, frequent communication.  Be capable of alternating between student, peer, and teacher.
-* Offer feedback at all times, but be empathetic and make it actionable.
-* Keep no sacred cows.
-* But if the team chooses a direction that you disagree with,
-* Put effort towards empathizing with others
+Some things go both ways, and in any professional relationship, I think we should:
+
+* Put effort towards empathizing with each other.  We may disagree or get frustrated, but we should always seek to know each other's reasoning.
+* Have open, frequent communication.  Be capable of alternating between student, peer, and teacher.
+* Offer feedback at all times, but make it actionable.  Feedback loops are how we improve and grow, but we shouldn't spend time dwelling on the past or casting blame.  Feedback is only useful if it is forward-looking.
+
+### What I expect from you
+
+In exchange for the support and buffering that I intend to provide to you, I'd ask the following:
+
 * Take the initiative in problem solving.  Seek solutions of your own rather than waiting to implement a solution given to you.
-* Build small feedback cycles in your work
-* Always seek the greatest areas of risk in your tasks and address them first
+* Build small feedback cycles into your work.  Run experiments as often as possible and allow the results to change your plans.
+* Seek the greatest areas of risk in your tasks and address them first.  We can gravitate to working on things we already know how to do, but that can cause us to spend time on something that ends up being insurmountable.
+* Keep no sacred cows.  If you see a better way to do ANYTHING, we should talk about it.
+* Give the team's decisions a chance.  You may disagree with the way we decide to go, and sometimes you'll have to ride it out for a while.  It's not forever, though.  When this happens, let's schedule a time to revisit the decision once we have enough information to evaluate the results.
 
-If I happen to be managing you at a particular company, I'll also write a separate document which details the way we do things as a team, from one-on-ones to reviews to specific quirks of our working environment.
+### When you should start yelling at me
 
-## What I don't do as a manager
-
-First off, stop for a minute and think about all the suffering that bad management causes in the world.  As evidenced by the success of Dilbert and The Office, it's not a small amount.  Although I'll never be able to provide an exhaustive list, here are some things I intend to never do:
+I am actually of the opinion that bad management is unethical.  If you try to quantify the suffering that it causes in the world, I think it's up there as one of the major causes.   I take the responsibility of management very seriously, and while I'm bound to make some mistakes, I know that I should never do the following:
 
 * Act like I can your job better than you
 * Take the credit for your work
 * Ignore your opinions
-* Give you challenging feedback in front of others
+* Give you embarrassing feedback in front of others
 
-Since I'm human, I may get things wrong from time to time.  If I do, though, please call me out immediately.
+I expect you to call me out if I do anything terrible like this!
 
 ## How I tend to screw up
+
+Warned you about the bullets, didn't I?
 
 All right.  Back to the story.  If you recall, I was asked "what does an ideal day look like for you?"
 
