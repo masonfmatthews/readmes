@@ -33,15 +33,14 @@ I think that bad communication can break a company, and it's certainly been the 
 
 Sadly, determining the correct medium of communication is hard.  There are a few ways to go right and a lot of ways to go wrong.  Here are the modalities we have at our disposal these days:
 
-* Face-to-face conversations.  These are high bandwidth, and with a whiteboard, they can be the best way to brainstorm/architect new solutions.  I also find that it's the hardest to misunderstand someone when you're looking them in the face.  However, if the only goal of the interaction is to communicate a decision or ask for feedback on something, you should not interrupt someone's day for that.  Choose an asynchronous method instead.
+* Face-to-face conversations (in person or videoconferencing).  These are high bandwidth, and with a whiteboard/sketch tool, they can be the best way to brainstorm/architect new solutions.  I also find that it's the hardest to misunderstand someone when you're looking them in the face.  However, if the only goal of the interaction is to communicate a decision or ask for feedback on something, you should not interrupt someone's day for that.  Choose an asynchronous method instead.
 * Screen-sharing or phone calls.  Still high-bandwidth, but you lose the cues of body language.  Great for coding (or brainstorming in the absence of face-to-face time), but again, don't overuse them.
 * Emails.  Honestly, I'm a big fan.  I never lose track of a message (like I do in the rush of Slack), and they are asynchronous enough I can batch them into my interrupt-driven time.  If you don't have a blocker and can wait a few hours, this is the best way to get me to do something for you.
-* Text messages.  If you need something from me immediately and you can't tap me on the shoulder, sending me a text is probably the best way to get a quick response.  I handle them first when I come out of meetings, and if I get a text when I'm heads-down, I can know whether I have to break my flow before I break my flow.
 * Slack.  Ugh.  I hate Slack.  It's causing us to become a hyperactive hive mind, and we're losing our ability to concentrate on one thing for long periods of time.  Still, it exists, and a company can use it well if they use it sparingly.  You just won't find me in the "fun" channels.
 
 ## What I think about meetings
 
-I worked for a big company out of college, so I tend to cringe at the thought of a meeting.  That being said, they're not all destined to be awful.  Here are the heuristics I use to keep meetings effective/bearable:
+I worked for a big company out of college, so I tend to cringe at the thought of a meeting.  That being said, they're not destined to be awful.  Here are the heuristics I use to keep meetings effective/bearable:
 
 * Articulate goals for each meeting in advance.
 * Never run late.  If you need to talk more, reevaluate the attendee list and get back together in a smaller group to cover what's left.
@@ -65,6 +64,4 @@ In an effort to make a good first impression with you, I didn't give you my comp
 
 First, I am a planner.  I like to predict the future, determine what we know and what we don't know, and figure out the best path for (a) getting things done, and (b) keeping our options open for surprises.  However, I do get attached to my mental models, and I can get frustrated if things are ALWAYS changing.  I've mellowed on this a bit as I've aged, but still, I know it's there.
 
-Second, once we have an approach planned out, I like to focus a large percentage of my time on it.  This means that I do not spend enough time exploring things off the beaten path.  I do not have an internal drive to stay up to date on the latest technologies, and I do not attend as many conferences as I should.  I think it's worse to go too far in the other direction, but still, I know I need more balance.  I hope that those around me (that would be you!) can keep me in the middle of the road.
-
-...I prioritize things I've committed to do over things that may be good forward-thinking ideas.
+Second, once we have an approach planned out, I like to focus a large percentage of my time on it.  This means that I do not spend enough time exploring things off the beaten path.  I can prioritize things I've committed to do over things that may be important forward-thinking ideas.  I do not have an internal drive to stay up to date on the latest technologies, and I do not attend as many conferences as I should.  I think it's worse to go too far in the other direction, but still, I know I need more balance.  I hope that those around me (that would be you!) can keep me in the middle of the road.
