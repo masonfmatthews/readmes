@@ -52,7 +52,7 @@ One other thing: if you have some documentation you want to get right, don't mee
 
 ## How I "manage"
 
-Everything in this document applies whether I'm your direct report, peer, or manager.  Being a manger comes with its own nuances and responsibilities, though, so for more detail on what I think of management, check out my (Manager README)[manager.md].
+Everything in this document applies whether I'm your direct report, peer, or manager.  Being a manger comes with its own nuances and responsibilities, though, so for more detail on what I think of management, check out my [Manager README](manager.md).
 
 ## How I tend to screw up
 
