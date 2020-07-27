@@ -45,7 +45,7 @@ In exchange for the support and heat shielding that I intend to provide to you, 
 
 While I'm bound to make some mistakes, I know that I should never do the following:
 
-* Act like I can your job better than you
+* Act like I can do your job better than you
 * Take the credit for your work
 * Ignore your opinions
 * Give you embarrassing feedback in front of others
