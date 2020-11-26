@@ -38,7 +38,7 @@ In exchange for the support and heat shielding that I intend to provide to you, 
 * Take the initiative in problem solving.  Seek solutions of your own rather than waiting to implement a solution given to you.
 * Build small feedback cycles into your work.  Run experiments as often as possible and allow the results to change your plans.
 * Seek the greatest areas of risk in your tasks and address them first.  We can gravitate to working on sub-problems we already know how to do, but that can cause us to spend time on a macro task that ends up being insurmountable.
-* Keep no sacred cows.  If you see a better way to do ANYTHING, we should talk about it.
+* Don't ever assume that the way we do something is sacred.  If you see a better way to do ANYTHING, we should talk about it.
 * Give the team's decisions a chance.  You may disagree with the way we decide to go, and sometimes you'll have to ride it out for a while.  It's not forever, though.  When a decision doesn't go your way, let's schedule a time to revisit once we've accumulated some results.
 
 ### When you should start yelling at me
